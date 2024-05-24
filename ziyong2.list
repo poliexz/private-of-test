@@ -1,0 +1,4 @@
+# 自用2 屏蔽bilibili海外cdn+pcdn
+DOMAIN-SUFFIX,szbdyd.com,REJECT
+DOMAIN-SUFFIX,mcdn.bilivideo.cn,REJECT
+DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net,REJECT
